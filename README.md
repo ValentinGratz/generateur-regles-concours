@@ -2,7 +2,7 @@
 
 Un outil web 100% gratuit et côté client pour générer automatiquement des règlements de concours. Décrivez votre concours en une phrase, obtenez des règles complètes instantanément.
 
-**[🚀 Voir la démo](https://tonpseudo.github.io/generateur-regles-concours)**
+**[🚀 Voir la démo](https://valentingratz.github.io/generateur-regles-concours/)**
 
 ### ✨ Fonctionnalités
 - **1-clic** : Un champ texte + un bouton Générer
